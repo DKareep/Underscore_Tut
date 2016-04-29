@@ -1,3 +1,5 @@
+//function
+
 var ob = {greeting : 'hi'};
 
 var f = function (name) {
